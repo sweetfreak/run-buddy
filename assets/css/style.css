@@ -1,5 +1,4 @@
-/*the universal selector is a *star* */
-* {
+* {  /*the universal selector is a *star* */
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -71,46 +70,41 @@ section {
 }
 
 .hero {
-    position: relative;
     background-image: url("../images/hero-bg.jpg");
     height: 600px;
     background-size: cover;
     background-position: center;
+    position: relative;
 }
 
 .hero-form {
+    border: 3px solid #024e76;
+    background-color: #fce138;
+    padding: 20px;
+    width: 500px;
+    color: #024e76;
     position: absolute;
     bottom:120px;
-    right: 140px;
-    background-color: #fce138;
-    color: #024e76;
-    padding: 20x;
-    width: 500px;
-    border-style: solid;
-    border-width: 3px;
-    border-color: #024e76; 
-    /* Could also just write: 
-    border: solid 3px #024e76
-    So it's consolidated! */
+    right: 140px;    
 }
 
 .hero-form h3 {
-    margin: 0;
     font-size: 24px;
+    margin: 0;
 }
 
 .hero-form p {
-margin: 5px 0 15px 0;
+    margin: 5px 0 15px 0;
 }
 
 .form-input {
-border: 1px solid #024e76;
-display: block;
-padding: 7px 15px;
-font-size: 16px;
-color:#024e76;
-width: 100%;
-margin-bottom: 15px;
+    border: 1px solid #024e76;
+    display: block;
+    padding: 7px 15px;
+    font-size: 16px;
+    color:#024e76;
+    width: 100%;
+    margin-bottom: 15px;
 }
 
 .hero-form label {
