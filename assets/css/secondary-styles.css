@@ -1,5 +1,6 @@
 .hero {
 <<<<<<< HEAD
+<<<<<<< HEAD
   background-position: bottom;
   height: auto;
   text-align: center;
@@ -42,6 +43,8 @@
   margin: 10px 0;
 }
 =======
+=======
+>>>>>>> main
     background-position: auto;
     height: auto;
     text-align: center;
@@ -84,5 +87,9 @@
 .secondary-content li {
     color: #39a6b2;
     margin: 10px 0;
+<<<<<<< HEAD
+}
+>>>>>>> main
+=======
 }
 >>>>>>> main
