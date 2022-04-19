@@ -14,4 +14,4 @@ https://lernantino.github.io/run-buddy/
 Made with ❤️ by [your name]
 
 ### ©️2019 Run Buddy, Inc 
-Tes tes est setse tse
+More testing
